@@ -1,0 +1,2 @@
+# StrataScratch
+Analytical Questions - PySpark 
